@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: rgba(216, 29, 29, 0.61);
+    width: 70vw;
+    margin: 0 auto 0 auto;
+}
+img{
+    width: 300px;
+    height: 250px;
+    border-radius: 50px;
+}
+p{
+    font-size: 19px;
+    font-family: monospace;
+}
